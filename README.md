@@ -5,13 +5,17 @@
 #### 1 - Onion Architecture 
 #### 2 - Redis Caching 
 #### 3 - SignalR For Real Time Chating
-#### 4 - Stripe Payment Getway For Enroll To Courses
+#### 4 - Stripe Payment Integrations
 #### 5 - Repository Pattern 
 #### 6 - UnitOfWork
-#### 7 - Identity(Role,Admin)
+#### 7 - Identity
 #### 8 - JwtTokens
 #### 9 - Error Handler Middleware
 #### 10 - SQLite As Datanase
-#### 11 - AutoMapper
-#### 12 - Async Programming 
-#### 13 - User & Role Seeding
+#### 11 - Entity Framework Core
+#### 12 - LinQ
+#### 13 - AutoMapper
+#### 14 - Async Programming 
+#### 15 - User & Role Seeding
+#### 16 - Swagger UI
+#### 17 - Deploying API on ()
